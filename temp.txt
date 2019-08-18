@@ -1,0 +1,44 @@
+h1 {
+  background-color: silver;
+}
+
+div {
+  background-color: silver;
+}
+
+p {
+  background-color: silver;
+}
+
+body {
+  background-color: silver;
+}
+
+.boxleft {
+  background-color: silver;
+  float: left;
+}
+
+.boxright {
+  background-color: silver;
+  float: right;
+}
+
+.content1 {
+  background-color: silver;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+  background-image: url("background.jpg");
+}
