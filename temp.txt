@@ -42,3 +42,235 @@ body {
 body {
   background-image: url("background.jpg");
 }
+
+
+
+
+
+	<div class="boxright">
+	
+		<center>
+		
+		<br></br>
+		<p><font size="2"></font></p>
+		<iframe id="frame" class="instagram-media instagram-media-rendered" id="instagram-embed-11" src="https://www.instagram.com/p/B0hLp-hBhs9/embed/captioned/" allowtransparency="true" frameborder="0" height="1" data-instgrm-payload-id="instagram-media-payload-11" scrolling="no" style="background: rgb(255, 255, 255); border: 1px solid rgb(219, 219, 219); margin: 0px 0px 12px; max-width: 400px; width: calc(100% - 2px); border-radius: 4px; box-shadow: none; display: block; padding: 0px;"></iframe>
+		<!--<script async="" defer="" src="//platform.instagram.com/en_US/embeds.js"></script>-->
+		</center>
+	</div>
+	
+	
+	
+	
+#wrap { width: 400px; height: 230px; padding: 0; overflow: hidden; }
+#frame { width: 800px; height: 230px; border: 1px solid black; }
+#frame { zoom: 0.66; -moz-transform: scale(0.66); -moz-transform-origin: 0 0; }
+
+
+	<div id="wrap">
+<iframe id="frame" src="test2.html"></iframe>
+</div>
+
+
+	<!--
+	<p><font size="3">7:00 - 10:00pm</font></p>
+	<p><font size="3">10:15 - 12:00am</font></p>
+	<p><font size="3">12:30 - 3:00pm</font></p>
+	<p><font size="3">3:30 - 4:30pm</font></p>
+	-->
+
+<!--	
+	<br></br>
+	<br></br>
+	<b><p><font size="2">Smile your on cam</font></p></b>
+	<iframe class="instagram-media instagram-media-rendered" id="instagram-embed-1" src="https://www.instagram.com/p/Bt1-Lwzhg8r/embed/captioned/" allowtransparency="true" frameborder="0" height="350" data-instgrm-payload-id="instagram-media-payload-1" scrolling="no" style="background: rgb(255, 255, 255); border: 1px solid rgb(219, 219, 219); margin: 0px 0px 12px; max-width: 400px; width: calc(100% - 2px); border-radius: 4px; box-shadow: none; display: block; padding: 0px;"></iframe>
+	<script async="" defer="" src="//platform.instagram.com/en_US/embeds.js"></script>
+
+	<br></br>
+	<iframe class="instagram-media instagram-media-rendered" id="instagram-embed-2" src="https://www.instagram.com/p/Bs_DWJoh4cR/embed/captioned/" allowtransparency="true" frameborder="0" height="350" data-instgrm-payload-id="instagram-media-payload-2" scrolling="no" style="background: rgb(255, 255, 255); border: 1px solid rgb(219, 219, 219); margin: 0px 0px 12px; max-width: 400px; width: calc(100% - 2px); border-radius: 4px; box-shadow: none; display: block; padding: 0px;"></iframe>
+	<script async="" defer="" src="//platform.instagram.com/en_US/embeds.js"></script>
+	
+	<br></br>
+	<p><font size="2"></font></p>
+	<iframe class="instagram-media instagram-media-rendered" id="instagram-embed-3" src="https://www.instagram.com/p/BtOfM_JhOpx/embed/captioned/" allowtransparency="true" frameborder="0" height="350" data-instgrm-payload-id="instagram-media-payload-3" scrolling="no" style="background: rgb(255, 255, 255); border: 1px solid rgb(219, 219, 219); margin: 0px 0px 12px; max-width: 400px; width: calc(100% - 2px); border-radius: 4px; box-shadow: none; display: block; padding: 0px;"></iframe>
+	<script async="" defer="" src="//platform.instagram.com/en_US/embeds.js"></script>
+	
+	
+	<br></br>
+	<p><font size="2"></font></p>
+	<iframe class="instagram-media instagram-media-rendered" id="instagram-embed-4" src="https://www.instagram.com/p/BpNkO73BIW5/embed/captioned/" allowtransparency="true" frameborder="0" height="350" data-instgrm-payload-id="instagram-media-payload-4" scrolling="no" style="background: rgb(255, 255, 255); border: 1px solid rgb(219, 219, 219); margin: 0px 0px 12px; max-width: 400px; width: calc(100% - 2px); border-radius: 4px; box-shadow: none; display: block; padding: 0px;"></iframe>
+	<script async="" defer="" src="//platform.instagram.com/en_US/embeds.js"></script>
+	
+	<br></br>
+	<p><font size="2"></font></p>
+	<iframe class="instagram-media instagram-media-rendered" id="instagram-embed-5" src="https://www.instagram.com/p/BowOrSvh6cF/embed/captioned/" allowtransparency="true" frameborder="0" height="350" data-instgrm-payload-id="instagram-media-payload-5" scrolling="no" style="background: rgb(255, 255, 255); border: 1px solid rgb(219, 219, 219); margin: 0px 0px 12px; max-width: 400px; width: calc(100% - 2px); border-radius: 4px; box-shadow: none; display: block; padding: 0px;"></iframe>
+	<script async="" defer="" src="//platform.instagram.com/en_US/embeds.js"></script>
+	
+	
+	<br></br>
+	<p><font size="2"></font></p>
+	<iframe class="instagram-media instagram-media-rendered" id="instagram-embed-6" src="https://www.instagram.com/p/BnxE85OlARA/embed/captioned/" allowtransparency="true" frameborder="0" height="350" data-instgrm-payload-id="instagram-media-payload-6" scrolling="no" style="background: rgb(255, 255, 255); border: 1px solid rgb(219, 219, 219); margin: 0px 0px 12px; max-width: 400px; width: calc(100% - 2px); border-radius: 4px; box-shadow: none; display: block; padding: 0px;"></iframe>
+	<script async="" defer="" src="//platform.instagram.com/en_US/embeds.js"></script>
+-->
+	<!--
+	<p><font size="2">Kitty Monitors your every move, no escaping</font></p>
+	<iframe class="instagram-media instagram-media-rendered" id="instagram-embed-6" src="https://www.instagram.com/p/BZCe3Wqhex7/embed/captioned/" allowtransparency="true" frameborder="0" height="350" data-instgrm-payload-id="instagram-media-payload-6" scrolling="no" style="background: rgb(255, 255, 255); border: 1px solid rgb(219, 219, 219); margin: 0px 0px 12px; max-width: 400px; width: calc(100% - 2px); border-radius: 4px; box-shadow: none; display: block; padding: 0px;"></iframe>
+	<script async="" defer="" src="//platform.instagram.com/en_US/embeds.js"></script>
+	-->
+
+
+
+
+
+
+
+<!--	
+	<br></br>
+	<p><font size="2"></font></p>
+	<iframe class="instagram-media instagram-media-rendered" id="instagram-embed-11" src="https://www.instagram.com/p/Bu_tH_shBWk/embed/captioned/" allowtransparency="true" frameborder="0" height="350" data-instgrm-payload-id="instagram-media-payload-11" scrolling="no" style="background: rgb(255, 255, 255); border: 1px solid rgb(219, 219, 219); margin: 0px 0px 12px; max-width: 400px; width: calc(100% - 2px); border-radius: 4px; box-shadow: none; display: block; padding: 0px;"></iframe>
+	<script async="" defer="" src="//platform.instagram.com/en_US/embeds.js"></script>
+	
+	<br></br>
+	<p><font size="2"></font></p>
+	<iframe class="instagram-media instagram-media-rendered" id="instagram-embed-12" src="https://www.instagram.com/p/BtZk4nxhdXy/embed/captioned/" allowtransparency="true" frameborder="0" height="350" data-instgrm-payload-id="instagram-media-payload-11" scrolling="no" style="background: rgb(255, 255, 255); border: 1px solid rgb(219, 219, 219); margin: 0px 0px 12px; max-width: 400px; width: calc(100% - 2px); border-radius: 4px; box-shadow: none; display: block; padding: 0px;"></iframe>
+	<script async="" defer="" src="//platform.instagram.com/en_US/embeds.js"></script>
+	
+	<br></br>
+	<p><font size="2"></font></p>
+	<iframe class="instagram-media instagram-media-rendered" id="instagram-embed-13" src="https://www.instagram.com/p/BtMqkUah-pb/embed/captioned/" allowtransparency="true" frameborder="0" height="350" data-instgrm-payload-id="instagram-media-payload-12" scrolling="no" style="background: rgb(255, 255, 255); border: 1px solid rgb(219, 219, 219); margin: 0px 0px 12px; max-width: 400px; width: calc(100% - 2px); border-radius: 4px; box-shadow: none; display: block; padding: 0px;"></iframe>
+	<script async="" defer="" src="//platform.instagram.com/en_US/embeds.js"></script>
+	
+	<br></br>
+	<p><font size="2"></font></p>
+	<iframe class="instagram-media instagram-media-rendered" id="instagram-embed-14" src="https://www.instagram.com/p/BtrorgZh6Ni/embed/captioned/" allowtransparency="true" frameborder="0" height="350" data-instgrm-payload-id="instagram-media-payload-13" scrolling="no" style="background: rgb(255, 255, 255); border: 1px solid rgb(219, 219, 219); margin: 0px 0px 12px; max-width: 400px; width: calc(100% - 2px); border-radius: 4px; box-shadow: none; display: block; padding: 0px;"></iframe>
+	<script async="" defer="" src="//platform.instagram.com/en_US/embeds.js"></script>
+	
+	
+	<br></br>
+	<p><font size="2"></font></p>
+	<iframe class="instagram-media instagram-media-rendered" id="instagram-embed-15" src="https://www.instagram.com/p/BpYBuWOBIo9/embed/captioned/" allowtransparency="true" frameborder="0" height="350" data-instgrm-payload-id="instagram-media-payload-14" scrolling="no" style="background: rgb(255, 255, 255); border: 1px solid rgb(219, 219, 219); margin: 0px 0px 12px; max-width: 400px; width: calc(100% - 2px); border-radius: 4px; box-shadow: none; display: block; padding: 0px;"></iframe>
+	<script async="" defer="" src="//platform.instagram.com/en_US/embeds.js"></script>
+	
+	<br></br>
+	<p><font size="2"></font></p>
+	<iframe class="instagram-media instagram-media-rendered" id="instagram-embed-16" src="https://www.instagram.com/p/BnxE-x-FL-o/embed/captioned/" allowtransparency="true" frameborder="0" height="350" data-instgrm-payload-id="instagram-media-payload-15" scrolling="no" style="background: rgb(255, 255, 255); border: 1px solid rgb(219, 219, 219); margin: 0px 0px 12px; max-width: 400px; width: calc(100% - 2px); border-radius: 4px; box-shadow: none; display: block; padding: 0px;"></iframe>
+	<script async="" defer="" src="//platform.instagram.com/en_US/embeds.js"></script>
+	
+	
+	<br></br>
+	<p><font size="2"></font></p>
+	<iframe class="instagram-media instagram-media-rendered" id="instagram-embed-17" src="https://www.instagram.com/p/BnMFG29l-dA/embed/captioned/" allowtransparency="true" frameborder="0" height="350" data-instgrm-payload-id="instagram-media-payload-16" scrolling="no" style="background: rgb(255, 255, 255); border: 1px solid rgb(219, 219, 219); margin: 0px 0px 12px; max-width: 400px; width: calc(100% - 2px); border-radius: 4px; box-shadow: none; display: block; padding: 0px;"></iframe>
+	<script async="" defer="" src="//platform.instagram.com/en_US/embeds.js"></script>
+-->
+	
+	<!--
+	
+	BZCe3Wqhex7/
+	
+	<p><font size="2">Kitty Monitors your every move, no escaping</font></p>
+	<iframe class="instagram-media instagram-media-rendered" id="instagram-embed-17" src="https://www.instagram.com/p/BspDWmbBiba/embed/captioned/" allowtransparency="true" frameborder="0" height="400" data-instgrm-payload-id="instagram-media-payload-17" scrolling="no" style="background: rgb(255, 255, 255); border: 1px solid rgb(219, 219, 219); margin: 0px 0px 12px; max-width: 400px; width: calc(100% - 2px); border-radius: 4px; box-shadow: none; display: block; padding: 0px;"></iframe>
+	<script async="" defer="" src="//platform.instagram.com/en_US/embeds.js"></script>
+	-->
+
+
+
+
+
+
+<!--
+	<br></br>
+	<b><p><font size="6">The Memes are Real.</font></p></b>
+	
+	
+	<br></br>
+	<video width="560" height="315" class="video-fluid z-depth-1" loop controls muted>
+	<source src="https://video01.alibaba.com/vod-icbu/BQN05fDxtzVEYTAORIV/F7wTgrG8qwqxR8DuJet%40%40hd.mp4" type="video/mp4" />
+	</video>
+	<b><p><font size="2">Silicon Wire, It can do it all. Especially in this Ad.</font></p><p><font size="1">   Sound is a must!</font></p></b>
+	
+	
+	<br></br>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/HYa3T0a862A" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+	<b><p><font size="2">Manual for Life!</font></p></b>
+	
+	
+	<br></br>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/kjyeCdd-dl8?start=246&end=251;t=246" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+	<b><p><font size="2">This is so sad. Despecito play Country Roads.</font></p></b>
+	
+	
+	
+	<br></br>
+	<b><p><font size="6">Music to your ears.</font></p></b>
+	
+	<br></br>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/PHgc8Q6qTjc" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+	
+	<br></br>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/By_Cn5ixYLg" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+	
+	<br></br>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/ihryR5PQBcE" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+	
+	<br></br>
+	
+	
+	
+	<br></br>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/KUBEXK0_R2Q" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+-->
+	
+	
+	<!--
+	style="width: 2048px; height: 1536px;">
+	
+	https://www.youtube.com/watch?v=YV8TY6Fftn0
+	
+	-->
+	
+	
+	
+    <!--
+	<b><p><font size="5">Menu</font></p></b> 
+	<!--
+	Nothing Here ATM
+	-->
+	
+	<!--
+	<b><p><font size="7">Content</font></p></b> 
+	-->
+	
+	
+	<!--
+	<font size="2"><a href="https://www.youtube.com/watch?v=LmW3H-EXYS0">Keep Moving Forward</a></font></p></b>
+	-->
+
+	
+	<!--
+	<p>How to Start your Day</p>
+	<!--
+	<iframe width="140" height="79" src="https://www.youtube.com/embed/91dps-NXxVg" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+	<iframe width="140" height="79" src="https://www.youtube.com/embed/09rjBZAed4I" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+	<iframe width="140" height="79" src="https://www.youtube.com/embed/rSHpw_b5nJI" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+	-->
+	
+	<!--
+	<iframe width="280" height="158" src="https://www.youtube.com/embed/rSHpw_b5nJI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	width="140" height="315"
+	width="280" height="158"
+	width="560" height="315"
+	-->
+	
+	<!--
+	<b><p><font size="1">
+	<a href="https://mrretupmoc.github.io/jetta_mod.html">
+	Jetta Mod
+	</a></font>
+	.
+	-->
+	
+<!--
+	<br></br>
+	<font size="4"><a href="https://www.instagram.com/p/BtXSXRylhLw/">Local First Robotics Team # 3571</a></font></p></b>
+	
+	<img src="https://boincstats.com/signature/-1/bam/15637/sig.png"></img>
+-->
